@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Migration Flows to South America</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+
+  <h1>Migration Flows to South America</h1>
+  <p id="subtitle">Hover an arc for details. Click a country to filter.</p>
+
+
+  <!-- Filter buttons get added here automatically by script.js -->
+  <div id="controls"></div>
+
+
+  <!-- The map gets drawn inside this SVG -->
+  <svg id="map" viewBox="0 0 960 540"></svg>
+
+
+  <!-- Tooltip box that follows your mouse -->
+  <div id="tooltip"></div>
+
+
+  <!-- D3 library + your code, in this order -->
+  <script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
+  <script src="https://cdn.jsdelivr.net/npm/topojson-client@3"></script>
+  <script src="script.js"></script>
+</body>
+</html>
