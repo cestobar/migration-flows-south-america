@@ -1,0 +1,381 @@
+origin,destination,migrants
+Algeria,Argentina,229
+Egypt,Argentina,298
+Morocco,Argentina,252
+South Africa,Argentina,441
+Senegal,Argentina,1267
+China,Argentina,19955
+"China, Taiwan Province of China",Argentina,3096
+South Korea,Argentina,5447
+Japan,Argentina,2909
+South Korea,Argentina,5368
+Iran,Argentina,227
+Lao People's Democratic Republic,Argentina,618
+Armenia,Argentina,884
+Cyprus,Argentina,356
+Israel,Argentina,1455
+Lebanon,Argentina,616
+State of Palestine,Argentina,215
+Syria,Argentina,1338
+Türkiye,Argentina,650
+Bulgaria,Argentina,366
+Czechia,Argentina,10
+Hungary,Argentina,10
+Poland,Argentina,1870
+Romania,Argentina,10
+Russia,Argentina,2271
+Slovakia,Argentina,220
+Ukraine,Argentina,3706
+Denmark,Argentina,472
+Estonia,Argentina,224
+Ireland,Argentina,340
+Lithuania,Argentina,403
+Norway,Argentina,287
+Sweden,Argentina,609
+United Kingdom,Argentina,2014
+Croatia,Argentina,765
+Greece,Argentina,799
+Italy,Argentina,53584
+Montenegro,Argentina,1342
+Portugal,Argentina,3723
+Serbia,Argentina,10
+Slovenia,Argentina,580
+Spain,Argentina,54371
+Austria,Argentina,794
+Belgium,Argentina,776
+France,Argentina,4394
+Germany,Argentina,4642
+Netherlands,Argentina,774
+Switzerland,Argentina,1260
+Cuba,Argentina,4007
+Dominican Republic,Argentina,8231
+Haiti,Argentina,1790
+Puerto Rico,Argentina,389
+Costa Rica,Argentina,719
+El Salvador,Argentina,901
+Guatemala,Argentina,553
+Honduras,Argentina,574
+Mexico,Argentina,5941
+Nicaragua,Argentina,304
+Panama,Argentina,598
+Bolivia,Argentina,337017
+Brazil,Argentina,51527
+Chile,Argentina,141348
+Colombia,Argentina,53163
+Ecuador,Argentina,9704
+Paraguay,Argentina,517429
+Peru,Argentina,156019
+Uruguay,Argentina,91485
+Venezuela,Argentina,192595
+Canada,Argentina,1481
+United States,Argentina,14917
+Australia,Argentina,659
+New Zealand,Argentina,255
+Mozambique,Brazil,1699
+Somalia,Brazil,196
+United Republic of Tanzania,Brazil,150
+Angola,Brazil,15174
+Cameroon,Brazil,723
+Congo,Brazil,282
+Democratic Republic of the Congo,Brazil,1524
+Algeria,Brazil,250
+Egypt,Brazil,3808
+Morocco,Brazil,1689
+Sudan,Brazil,79
+Tunisia,Brazil,446
+South Africa,Brazil,1941
+Benin,Brazil,136
+Burkina Faso,Brazil,396
+Cabo Verde,Brazil,1430
+Côte d'Ivoire,Brazil,502
+Gambia,Brazil,78
+Ghana,Brazil,599
+Guinea,Brazil,443
+Guinea-Bissau,Brazil,1521
+Liberia,Brazil,46
+Mali,Brazil,454
+Mauritania,Brazil,142
+Nigeria,Brazil,2384
+Senegal,Brazil,637
+Sierra Leone,Brazil,100
+Togo,Brazil,310
+China,Brazil,24462
+"China, Taiwan Province of China",Brazil,4505
+Japan,Brazil,52758
+South Korea,Brazil,9395
+Afghanistan,Brazil,7050
+Bangladesh,Brazil,811
+India,Brazil,2433
+Iran,Brazil,815
+Nepal,Brazil,1370
+Pakistan,Brazil,922
+Indonesia,Brazil,847
+Philippines,Brazil,746
+Thailand,Brazil,566
+Viet Nam,Brazil,1357
+Iraq,Brazil,967
+Israel,Brazil,2367
+Jordan,Brazil,1261
+Lebanon,Brazil,14879
+Saudi Arabia,Brazil,386
+State of Palestine,Brazil,429
+Syria,Brazil,8237
+Türkiye,Brazil,524
+Bulgaria,Brazil,270
+Czechia,Brazil,15
+Hungary,Brazil,1563
+Poland,Brazil,28
+Romania,Brazil,50
+Russia,Brazil,486
+Slovakia,Brazil,245
+Ukraine,Brazil,2004
+Denmark,Brazil,564
+Estonia,Brazil,210
+Finland,Brazil,626
+Iceland,Brazil,556
+Ireland,Brazil,208
+Lithuania,Brazil,733
+Norway,Brazil,701
+Sweden,Brazil,715
+United Kingdom,Brazil,6230
+Croatia,Brazil,664
+Greece,Brazil,1593
+Italy,Brazil,39836
+Portugal,Brazil,146697
+Serbia,Brazil,18
+Slovenia,Brazil,227
+Spain,Brazil,33197
+Austria,Brazil,2536
+Belgium,Brazil,2100
+France,Brazil,11237
+Germany,Brazil,18078
+Netherlands,Brazil,3759
+Switzerland,Brazil,3047
+Cuba,Brazil,23151
+Dominican Republic,Brazil,906
+Haiti,Brazil,88383
+Jamaica,Brazil,176
+Trinidad and Tobago,Brazil,244
+Costa Rica,Brazil,462
+El Salvador,Brazil,71
+Guatemala,Brazil,372
+Mexico,Brazil,3278
+Nicaragua,Brazil,455
+Panama,Brazil,592
+Argentina,Brazil,31403
+Bolivia,Brazil,46373
+Chile,Brazil,17324
+Colombia,Brazil,10230
+Ecuador,Brazil,2181
+French Guiana,Brazil,873
+Guyana,Brazil,2477
+Paraguay,Brazil,53941
+Peru,Brazil,21594
+Suriname,Brazil,356
+Uruguay,Brazil,27225
+Venezuela,Brazil,571919
+Canada,Brazil,2064
+United States,Brazil,27764
+Australia,Brazil,790
+New Zealand,Brazil,320
+Burundi,Chile,281
+Ethiopia,Chile,222
+Mozambique,Chile,237
+United Republic of Tanzania,Chile,398
+Cameroon,Chile,281
+Democratic Republic of the Congo,Chile,207
+Libya,Chile,266
+Morocco,Chile,210
+Tunisia,Chile,398
+South Africa,Chile,455
+Senegal,Chile,295
+Uzbekistan,Chile,592
+China,Chile,13126
+"China, Macao SAR",Chile,458
+South Korea,Chile,7
+Japan,Chile,1198
+South Korea,Chile,1190
+India,Chile,1865
+Nepal,Chile,281
+Pakistan,Chile,845
+Lao People's Democratic Republic,Chile,207
+Malaysia,Chile,325
+Philippines,Chile,757
+Singapore,Chile,354
+Armenia,Chile,239
+Georgia,Chile,252
+Iraq,Chile,325
+Israel,Chile,632
+Lebanon,Chile,268
+Oman,Chile,458
+Qatar,Chile,429
+State of Palestine,Chile,927
+Syria,Chile,644
+Türkiye,Chile,479
+Czechia,Chile,201
+Hungary,Chile,335
+Poland,Chile,599
+Romania,Chile,491
+Russia,Chile,1273
+Ukraine,Chile,393
+Denmark,Chile,297
+Estonia,Chile,385
+Finland,Chile,264
+Iceland,Chile,354
+Latvia,Chile,695
+Lithuania,Chile,532
+Norway,Chile,486
+Sweden,Chile,1366
+United Kingdom,Chile,2912
+Albania,Chile,341
+Croatia,Chile,293
+Greece,Chile,224
+Holy See,Chile,311
+Italy,Chile,4352
+Portugal,Chile,779
+Serbia,Chile,297
+Spain,Chile,18086
+Austria,Chile,669
+Belgium,Chile,1232
+France,Chile,6250
+Germany,Chile,6408
+Netherlands,Chile,932
+Switzerland,Chile,1342
+Antigua and Barbuda,Chile,207
+Barbados,Chile,341
+Cayman Islands,Chile,266
+Cuba,Chile,17467
+Dominican Republic,Chile,18210
+Haiti,Chile,172050
+Jamaica,Chile,222
+Puerto Rico,Chile,453
+Saint Kitts and Nevis,Chile,207
+Belize,Chile,252
+Costa Rica,Chile,1067
+El Salvador,Chile,1289
+Guatemala,Chile,771
+Honduras,Chile,856
+Mexico,Chile,7285
+Nicaragua,Chile,569
+Panama,Chile,874
+Argentina,Chile,76995
+Bolivia,Chile,150155
+Brazil,Chile,19238
+Colombia,Chile,189185
+Ecuador,Chile,46245
+Paraguay,Chile,6354
+Peru,Chile,261522
+Uruguay,Chile,5963
+Venezuela,Chile,427821
+Bermuda,Chile,311
+Canada,Chile,2004
+United States,Chile,14042
+Australia,Chile,1421
+New Zealand,Chile,400
+French Polynesia,Chile,281
+Cabo Verde,Colombia,255
+China,Colombia,1582
+"China, Taiwan Province of China",Colombia,205
+South Korea,Colombia,13
+Japan,Colombia,726
+South Korea,Colombia,659
+Afghanistan,Colombia,670
+India,Colombia,503
+Israel,Colombia,341
+Lebanon,Colombia,560
+Saudi Arabia,Colombia,213
+Türkiye,Colombia,276
+Poland,Colombia,217
+Romania,Colombia,164
+Russia,Colombia,706
+Sweden,Colombia,323
+United Kingdom,Colombia,1873
+Albania,Colombia,236
+Italy,Colombia,3511
+Portugal,Colombia,557
+Slovenia,Colombia,353
+Spain,Colombia,19547
+Austria,Colombia,210
+Belgium,Colombia,590
+France,Colombia,3574
+Germany,Colombia,2248
+Netherlands,Colombia,722
+Switzerland,Colombia,852
+Aruba,Colombia,381
+Cuba,Colombia,3164
+Dominican Republic,Colombia,1198
+Puerto Rico,Colombia,606
+United States Virgin Islands,Colombia,276
+Costa Rica,Colombia,2070
+El Salvador,Colombia,898
+Guatemala,Colombia,979
+Honduras,Colombia,795
+Mexico,Colombia,6422
+Nicaragua,Colombia,625
+Panama,Colombia,3506
+Argentina,Colombia,6491
+Bolivia,Colombia,1267
+Brazil,Colombia,5335
+Chile,Colombia,5406
+Ecuador,Colombia,21357
+Falkland Islands (Malvinas),Colombia,13
+Paraguay,Colombia,287
+Peru,Colombia,6178
+Uruguay,Colombia,746
+Venezuela,Colombia,2904873
+Canada,Colombia,1942
+United States,Colombia,22519
+Australia,Colombia,761
+Vanuatu,Colombia,4
+South Africa,Peru,406
+China,Peru,4560
+Japan,Peru,7153
+South Korea,Peru,1313
+India,Peru,599
+Philippines,Peru,423
+Viet Nam,Peru,5527
+Israel,Peru,570
+State of Palestine,Peru,368
+Türkiye,Peru,359
+Poland,Peru,437
+Romania,Peru,404
+Russia,Peru,1358
+Ukraine,Peru,638
+Denmark,Peru,203
+Ireland,Peru,253
+Sweden,Peru,405
+United Kingdom,Peru,1250
+Italy,Peru,6538
+Portugal,Peru,496
+Serbia,Peru,137
+Spain,Peru,13320
+Austria,Peru,227
+Belgium,Peru,932
+France,Peru,1804
+Germany,Peru,1680
+Netherlands,Peru,1050
+Switzerland,Peru,561
+Cuba,Peru,6676
+Dominican Republic,Peru,1825
+Haiti,Peru,256
+Puerto Rico,Peru,527
+Saint Kitts and Nevis,Peru,1159
+Costa Rica,Peru,912
+El Salvador,Peru,615
+Guatemala,Peru,541
+Honduras,Peru,481
+Mexico,Peru,4077
+Nicaragua,Peru,446
+Panama,Peru,878
+Argentina,Peru,30704
+Bolivia,Peru,22190
+Brazil,Peru,11785
+Chile,Peru,19221
+Colombia,Peru,25477
+Ecuador,Peru,10046
+Paraguay,Peru,2205
+Uruguay,Peru,1224
+Venezuela,Peru,1596667
+Canada,Peru,1842
+United States,Peru,11392
+Australia,Peru,837
